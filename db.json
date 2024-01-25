@@ -6,21 +6,21 @@
         "image": "brazil.jpg",
         "id": 1,
         "description":
-          "all about Brazil, suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat.",
+          "all about Brazil: soccer.",
         "experiences": [
           {
             "name": "Iguaçu Falls",
             "slug": "iguacu-falls",
             "image": "iguacu-falls.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "iguaçu falls. wow!"
           },
           {
             "name": "Pão de Açúcar",
             "slug": "pao-de-acucar",
             "image": "pao-de-acucar.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "pão de açúcar. wow!"
           }
         ]
       },
@@ -30,21 +30,21 @@
         "image": "panama.jpg",
         "id": 2,
         "description":
-          "all about panama. Nam fermentum, leo ac lobortis tincidunt, justo felis semper nisi, sed facilisis quam ante a justo. Nam pulvinar nibh nec mi vestibulum cursus quis eget orci. Aenean faucibus faucibus ex, a imperdiet nibh luctus faucibus. Mauris porttitor, velit ac eleifend mattis, sem justo accumsan odio, ut mattis nulla nulla eu nibh. Cras justo risus, sollicitudin eget nulla a, consequat convallis tortor.",
+          "all about panama. engineering!",
         "experiences": [
           {
             "name": "Panama City",
             "slug": "panama-city",
             "image": "panama-city.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "panama city. wow!"
           },
           {
             "name": "Panama Canal",
             "slug": "panama-canal",
             "image": "panama-canal.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "panama canal. wow!"
           }
         ]
       },
@@ -54,21 +54,21 @@
         "image": "hawaii.jpg",
         "id": 3,
         "description":
-          "all about hawaii. Etiam iaculis, ex in semper fringilla, lorem augue maximus lorem, in aliquet ex massa non enim. Maecenas pharetra orci eu semper pharetra. Suspendisse vel elit semper, fringilla metus ac, pulvinar justo. Vestibulum nibh lacus, pellentesque non arcu vel, efficitur eleifend lorem. Duis ultrices bibendum orci, nec laoreet elit. In vulputate massa vel massa cursus gravida.",
+          "all about hawaii. it's also hot!",
         "experiences": [
           {
             "name": "Na Pali Coast",
             "slug": "na-pali-coast",
             "image": "na-pali-coast.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "na pali coast. wow!"
           },
           {
             "name": "O'Ahu's North Shore",
             "slug": "ohaus-north-shore",
             "image": "ohaus-north-shore.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "o'ahu north shore. wow!"
           }
         ]
       },
@@ -78,21 +78,21 @@
         "image": "jamaica.jpg",
         "id": 4,
         "description":
-          "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit.",
+          "all about jamaica. it's hot.",
         "experiences": [
           {
             "name": "Tower Isle",
             "slug": "tower-isle",
             "image": "tower-isle.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "tower isle. wow!"
           },
           {
             "name": "Montego Bay",
             "slug": "montego-bay",
             "image": "montego-bay.jpg",
             "description":
-              "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit."
+              "montego bay. wow!"
           }
         ]
       }
