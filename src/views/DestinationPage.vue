@@ -25,6 +25,7 @@ export default {
     async created(){
         const result = await fetch(`https://my-json-server.typicode.com/cmckinnon6289/travel-app/destinations?slug=${this.$route.params.slug}`)
         this.destination = await result.json()
+        console.log(this.destination);
         this.$watch(
             () => this.$route.params,
             async ()=>{
