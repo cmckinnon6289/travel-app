@@ -23,12 +23,12 @@ export default {
         }
     },
     async created(){
-        const result = await fetch(`https://travel-dummy-api.netlify.app/${this.$route.params.slug}`)
+        const result = await fetch(`https://my-json-server.typicode.com/cmckinnon6289/travel-app/destinations?slug=${this.$route.params.slug}`)
         this.destination = await result.json()
         this.$watch(
             () => this.$route.params,
             async ()=>{
-                const result = await fetch(`https://travel-dummy-api.netlify.app/${this.$route.params.slug}`)
+                const result = await fetch(`https://my-json-server.typicode.com/cmckinnon6289/travel-app/destinations?slug=${this.$route.params.slug}`)
                 this.destination = await result.json()
             }
         )

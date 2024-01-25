@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import sourceData from "@/data.json"
+import sourceData from "/db.json"
 
 export default {
     data(){
